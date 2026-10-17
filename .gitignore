@@ -1,0 +1,4 @@
+node_modules/
+.leadwright/
+*.log
+.DS_Store
