@@ -1,0 +1,51 @@
+{
+  "name": "@kurtfrancisco/leadwright",
+  "version": "0.1.0",
+  "description": "Compliance-first outbound sales pipeline as an MCP server for Claude Code, Cursor and Codex: ICP scoring, CAN-SPAM gate, do-not-contact list, warmup caps, Tue/Wed send window, human approval, and a why-was-this-lead-contacted audit log. Based on Harvey by Ethan Rogers.",
+  "license": "MIT",
+  "author": "Kurt Francisco <Fpavia111@gmail.com>",
+  "contributors": [
+    "Ethan Rogers (original Harvey project)"
+  ],
+  "bin": {
+    "leadwright": "bin/leadwright.js"
+  },
+  "main": "src/index.js",
+  "files": [
+    "bin/",
+    "src/",
+    "templates/",
+    "skills/",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fpavia111-creator/leadwright.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fpavia111-creator/leadwright/issues"
+  },
+  "homepage": "https://github.com/fpavia111-creator/leadwright#readme",
+  "keywords": [
+    "mcp",
+    "claude-code",
+    "cursor",
+    "codex",
+    "sales",
+    "cold-email",
+    "outbound",
+    "can-spam",
+    "deliverability",
+    "agent"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
