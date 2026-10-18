@@ -1,3 +1,6 @@
+> **This project has moved and been renamed to Leonidas of the Web: https://github.com/fpavia111-creator/leonidas**
+> npm: `@kurtfrancisco/leonidas` (this package, `@kurtfrancisco/leadwright`, is deprecated). Run `npx -y @kurtfrancisco/leonidas`.
+
 # leadwright
 
 **A compliance-first outbound sales pipeline that runs as an MCP server for Claude Code, Cursor and Codex.**
