@@ -1,6 +1,6 @@
 {
   "name": "@kurtfrancisco/leadwright",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Compliance-first outbound sales pipeline as an MCP server for Claude Code, Cursor and Codex: ICP scoring, CAN-SPAM gate, do-not-contact list, warmup caps, Tue/Wed send window, human approval, and a why-was-this-lead-contacted audit log. Based on Harvey by Ethan Rogers.",
   "license": "MIT",
   "author": "Kurt Francisco <Fpavia111@gmail.com>",
