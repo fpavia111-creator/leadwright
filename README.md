@@ -71,6 +71,8 @@ leadwright Pro adds:
 
 Pro is sold separately. The core in this repo is MIT and fully usable without it.
 
+**[Buy leadwright Pro: $11 one-time →](https://buy.stripe.com/3cI8wR5LzbZw0lR0md5AQ04)**
+
 ## Legal
 leadwright helps you follow the rules, but it isn't legal advice. You're responsible for complying with CAN-SPAM, CASL, GDPR/PECR and your mail provider's terms.
 
